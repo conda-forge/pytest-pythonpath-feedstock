@@ -20,7 +20,7 @@ requirements:
     - pip
   run:
     - python <4.0
-    - pytest >=2.5.2
+    - pytest >=2.5.2,<7
 
 test:
   imports:
